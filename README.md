@@ -15,13 +15,13 @@ SyriaTel is struggling with a substantial challenge: customer churn, which direc
 The dataset used in this project includes a wide range of features related to customer demographics, usage patterns, and service interactions. Key features include account length, number of voicemail messages, total day minutes, total day calls, total evening minutes, total evening calls, total international minutes, total international calls, total night minutes, total night calls, customer service calls, and the churn target variable.
 
 ## Data Analysis
-![Baseline ROC Curve](SyriaTel-Churn-Predictor/baseline%20roc.png)
+![Baseline ROC Curve](Images/baseline%20roc.png)
 
-![Optimized Logistic Regression ROC Curve](SyriaTel-Churn-Predictor/optimized%20logreg.png)
+![Optimized Logistic Regression ROC Curve](Images/optimized%20logreg.png)
 
-![Random Forest ROC Curve](SyriaTel-Churn-Predictor/randomforest.png)
+![Random Forest ROC Curve](Images/randomforest.png)
 
-![Optimized Random Forest ROC Curve](SyriaTel-Churn-Predictor/optimised%20randomforest.png)
+![Optimized Random Forest ROC Curve](Images/optimised%20randomforest.png)
 
 
 
